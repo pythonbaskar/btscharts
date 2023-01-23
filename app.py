@@ -1,9 +1,8 @@
 
-
+import streamlit as st
 
 def mainFunc():
-    print('Hi')
-
+    st.write("Welcome to new page !!!")
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
